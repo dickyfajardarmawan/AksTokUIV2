@@ -1,0 +1,4 @@
+Bundle-Name: flPemetaanGudang
+Bundle-SymbolicName: flPemetaanGudang
+Bundle-Version: 1.0.0
+Export-Package: flPemetaanGudang.constants

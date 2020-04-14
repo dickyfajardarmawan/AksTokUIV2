@@ -1,0 +1,4 @@
+Bundle-Name: Payment
+Bundle-SymbolicName: Payment
+Bundle-Version: 1.0.0
+Export-Package: Payment.constants

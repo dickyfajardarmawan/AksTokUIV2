@@ -1,0 +1,4 @@
+Bundle-Name: flPenjualan
+Bundle-SymbolicName: flPenjualan
+Bundle-Version: 1.0.0
+Export-Package: flPenjualan.constants

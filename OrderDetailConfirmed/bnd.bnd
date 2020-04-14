@@ -1,0 +1,4 @@
+Bundle-Name: OrderDetailConfirmed
+Bundle-SymbolicName: OrderDetailConfirmed
+Bundle-Version: 1.0.0
+Export-Package: OrderDetailConfirmed.constants

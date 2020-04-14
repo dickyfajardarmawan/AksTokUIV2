@@ -1,0 +1,4 @@
+Bundle-Name: Checkout
+Bundle-SymbolicName: Checkout
+Bundle-Version: 1.0.0
+Export-Package: Checkout.constants

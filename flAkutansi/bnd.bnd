@@ -1,0 +1,4 @@
+Bundle-Name: flAkutansi
+Bundle-SymbolicName: flAkutansi
+Bundle-Version: 1.0.0
+Export-Package: flAkutansi.constants

@@ -1,0 +1,4 @@
+Bundle-Name: flRiwayatLaporanPembelian
+Bundle-SymbolicName: flRiwayatLaporanPembelian
+Bundle-Version: 1.0.0
+Export-Package: flRiwayatLaporanPembelian.constants

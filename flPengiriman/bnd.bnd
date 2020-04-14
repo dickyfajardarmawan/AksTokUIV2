@@ -1,0 +1,4 @@
+Bundle-Name: flPengiriman
+Bundle-SymbolicName: flPengiriman
+Bundle-Version: 1.0.0
+Export-Package: flPengiriman.constants

@@ -1,0 +1,4 @@
+Bundle-Name: flProdukList
+Bundle-SymbolicName: flProdukList
+Bundle-Version: 1.0.0
+Export-Package: flProdukList.constants

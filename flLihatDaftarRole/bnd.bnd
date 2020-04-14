@@ -1,0 +1,4 @@
+Bundle-Name: flLihatDaftarRole
+Bundle-SymbolicName: flLihatDaftarRole
+Bundle-Version: 1.0.0
+Export-Package: flLihatDaftarRole.constants

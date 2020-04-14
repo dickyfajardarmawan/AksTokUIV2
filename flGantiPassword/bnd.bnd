@@ -1,0 +1,4 @@
+Bundle-Name: flGantiPassword
+Bundle-SymbolicName: flGantiPassword
+Bundle-Version: 1.0.0
+Export-Package: flGantiPassword.constants

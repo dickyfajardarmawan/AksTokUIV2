@@ -1,0 +1,4 @@
+Bundle-Name: flGrupHarga
+Bundle-SymbolicName: flGrupHarga
+Bundle-Version: 1.0.0
+Export-Package: flGrupHarga.constants

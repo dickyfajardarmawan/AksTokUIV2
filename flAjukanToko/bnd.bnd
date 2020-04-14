@@ -1,0 +1,4 @@
+Bundle-Name: flAjukanToko
+Bundle-SymbolicName: flAjukanToko
+Bundle-Version: 1.0.0
+Export-Package: flAjukanToko.constants

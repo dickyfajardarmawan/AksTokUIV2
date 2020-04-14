@@ -1,0 +1,4 @@
+Bundle-Name: flLihatDaftarHarga
+Bundle-SymbolicName: flLihatDaftarHarga
+Bundle-Version: 1.0.0
+Export-Package: flLihatDaftarHarga.constants

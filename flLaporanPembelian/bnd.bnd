@@ -1,0 +1,4 @@
+Bundle-Name: flLaporanPembelian
+Bundle-SymbolicName: flLaporanPembelian
+Bundle-Version: 1.0.0
+Export-Package: flLaporanPembelian.constants

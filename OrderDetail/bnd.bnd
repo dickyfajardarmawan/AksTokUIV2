@@ -1,0 +1,4 @@
+Bundle-Name: OrderDetail
+Bundle-SymbolicName: OrderDetail
+Bundle-Version: 1.0.0
+Export-Package: OrderDetail.constants

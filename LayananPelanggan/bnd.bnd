@@ -1,0 +1,4 @@
+Bundle-Name: LayananPelanggan
+Bundle-SymbolicName: LayananPelanggan
+Bundle-Version: 1.0.0
+Export-Package: LayananPelanggan.constants

@@ -1,0 +1,4 @@
+Bundle-Name: signup
+Bundle-SymbolicName: signup
+Bundle-Version: 1.0.0
+Export-Package: signup.constants

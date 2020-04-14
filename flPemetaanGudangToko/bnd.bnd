@@ -1,0 +1,4 @@
+Bundle-Name: flPemetaanGudangToko
+Bundle-SymbolicName: flPemetaanGudangToko
+Bundle-Version: 1.0.0
+Export-Package: flPemetaanGudangToko.constants

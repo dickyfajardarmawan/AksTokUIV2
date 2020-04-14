@@ -1,0 +1,4 @@
+Bundle-Name: flListBackOffice
+Bundle-SymbolicName: flListBackOffice
+Bundle-Version: 1.0.0
+Export-Package: flListBackOffice.constants

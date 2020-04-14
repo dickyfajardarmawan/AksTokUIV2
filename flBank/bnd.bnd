@@ -1,0 +1,4 @@
+Bundle-Name: flBank
+Bundle-SymbolicName: flBank
+Bundle-Version: 1.0.0
+Export-Package: flBank.constants

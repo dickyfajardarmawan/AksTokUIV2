@@ -1,0 +1,4 @@
+Bundle-Name: flListGudang
+Bundle-SymbolicName: flListGudang
+Bundle-Version: 1.0.0
+Export-Package: flListGudang.constants

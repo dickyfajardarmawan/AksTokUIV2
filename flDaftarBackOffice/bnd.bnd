@@ -1,0 +1,4 @@
+Bundle-Name: flDaftarBackOffice
+Bundle-SymbolicName: flDaftarBackOffice
+Bundle-Version: 1.0.0
+Export-Package: flDaftarBackOffice.constants

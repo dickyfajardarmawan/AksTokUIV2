@@ -1,0 +1,4 @@
+Bundle-Name: flListToko
+Bundle-SymbolicName: flListToko
+Bundle-Version: 1.0.0
+Export-Package: flListToko.constants
