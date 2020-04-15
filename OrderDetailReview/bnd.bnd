@@ -1,0 +1,4 @@
+Bundle-Name: OrderDetailReview
+Bundle-SymbolicName: OrderDetailReview
+Bundle-Version: 1.0.0
+Export-Package: OrderDetailReview.constants
